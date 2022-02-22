@@ -3920,10 +3920,10 @@ ml-matrix@^5.3.0:
     ml-array-max "^1.1.1"
     ml-array-rescale "^1.2.1"
 
-monaco-editor-core@^0.20.0:
-  version "0.20.0"
-  resolved "https://registry.yarnpkg.com/monaco-editor-core/-/monaco-editor-core-0.20.0.tgz#d5ce01307d298dbca6ab9194812812b32b50433f"
-  integrity sha512-4mdmfEejTvRZzrEIn70jqqNl3g15vnkRdTkJ8uMK4jiljntlwhiSc5vknZOLt1QM8za16C3tDrSl2mTL9ma2Sg==
+monaco-editor-core@^0.31.1:
+  version "0.31.1"
+  resolved "https://registry.yarnpkg.com/monaco-editor-core/-/monaco-editor-core-0.31.1.tgz#7dfde54f00a3894e87db6151b7c1333944727455"
+  integrity sha512-JdwqSmTJP10bhb7qc94ehWX0C1D2R2rwCHfm+5Vd2Oh0dwjfeCAWHDelnTZ+BVbGPCb+7ZGHZvG+oYZHdmuemg==
 
 monaco-languages@^1.10.0:
   version "1.10.0"
